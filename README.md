@@ -5,7 +5,11 @@ Based on LunarVim
 
 ## Windows
 
-choco install neovim 
+### neovim 
+choco install neovim
+
 scoop install neovim
+
+### install RickVim
 
 Install [Packer.nvim](https://github.com/wbthomason/packer.nvim)
