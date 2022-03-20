@@ -1,6 +1,11 @@
 # RICK-VIM
 Based on LunarVim
 
-## Installation
+# Installation
 
-Windows
+## Windows
+
+choco install neovim
+scoop install neovim
+
+Install [Packer.nvim](https://github.com/wbthomason/packer.nvim)
