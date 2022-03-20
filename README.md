@@ -16,7 +16,7 @@ Install [Packer.nvim](https://github.com/wbthomason/packer.nvim)
 
 ##### enter:
 
-git clone https://github.com/ricky900/RICK-VIM/edit/main/README.md $HOME/AppData/local/nvim
+git clone https://github.com/ricky900/RICK-VIM/ $HOME/AppData/local/nvim
 
 enter neovim
 
