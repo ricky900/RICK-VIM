@@ -1,5 +1,5 @@
 # RICK-VIM
-An lightweight Neovim IDE Based on LunarVim
+An lightweight Neovim config Based on LunarVim
 
 # Installation
 
