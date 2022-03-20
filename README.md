@@ -5,8 +5,7 @@ Based on LunarVim
 
 ## Windows
 
-choco install neovim
-
+choco install neovim 
 scoop install neovim
 
 Install [Packer.nvim](https://github.com/wbthomason/packer.nvim)
