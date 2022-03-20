@@ -1,0 +1,5 @@
+vim.api.nvim_set_keymap('n', '<F8>', '<cmd>TagbarToggle<CR>', {noremap = true})
+vim.api.nvim_set_keymap('n', '<F2>', '<cmd>Telescope find_files<cr>', { noremap = true })
+vim.api.nvim_set_keymap('n', '<F3>', '<cmd>Telescope live_grep<cr>', { noremap = true })
+vim.api.nvim_set_keymap('n', '<F4>', '<cmd>Telescope buffers<cr>', { noremap = true })
+vim.api.nvim_set_keymap('n', '<F9>', '<cmd>Telescope help_tags<cr>', { noremap = true })
