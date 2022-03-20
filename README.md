@@ -5,7 +5,7 @@ An Neovim IDE Based on LunarVim
 
 ## Windows
 
-### neovim 
+### install neovim 
 choco install neovim
 
 scoop install neovim
